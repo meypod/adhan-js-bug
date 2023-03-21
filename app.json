@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ded153b7-3022-4042-a96c-275d1ab384e4"
+      }
+    },
+    "owner": "meypod"
   }
 }
